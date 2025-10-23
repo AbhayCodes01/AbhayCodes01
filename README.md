@@ -1,11 +1,10 @@
 ## Hi there 👋
-### 🏆 My Holopin Badges
+### 🏅 My Holopin Badges
 
-[![Holopin board of @AbhayCodes01](https://holopin.me/AbhayCodes01)](https://holopin.io/@AbhayCodes01)
+[![Hacktoberfest 2025 badge](https://holopin.me/hacktoberfest2025-badge)](https://www.holopin.io/hacktoberfest2025/userbadge/cmggfs5wq001yjy04b19237rm)
 
-[![Hacktoberfest 2025 badge of @AbhayCodes01](https://www.holopin.io/hacktoberfest2025/userbadge/cmggfs5wq001yjy04b19237rm)](https://www.holopin.io/hacktoberfest2025/userbadge/cmggfs5wq001yjy04b19237rm)
+[![Second badge](https://holopin.me/AbhayCodes01-badge2)](https://www.holopin.io/userbadge/cmh2z019o0001l104t0mlthp2)
 
-[![Second badge of @AbhayCodes01](https://www.holopin.io/userbadge/cmh2z019o0001l104t0mlthp2)](https://www.holopin.io/userbadge/cmh2z019o0001l104t0mlthp2)
 
 <!--
 **AbhayCodes01/AbhayCodes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

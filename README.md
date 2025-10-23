@@ -1,9 +1,16 @@
 ## Hi there 👋
-### 🏅 My Holopin Badges
+### 🏆 My Holopin Badges
 
-[![Hacktoberfest 2025 badge](https://holopin.me/hacktoberfest2025-badge)](https://www.holopin.io/hacktoberfest2025/userbadge/cmggfs5wq001yjy04b19237rm)
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmggfs5wq001yjy04b19237rm">
+    <img src="https://holopin.me/hacktoberfest2025-badge" width="150" alt="Hacktoberfest 2025 badge">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmh2z019o0001l104t0mlthp2">
+    <img src="https://holopin.me/AbhayCodes01-badge2" width="150" alt="Second Holopin badge">
+  </a>
+</p>
 
-[![Second badge](https://holopin.me/AbhayCodes01-badge2)](https://www.holopin.io/userbadge/cmh2z019o0001l104t0mlthp2)
 
 
 <!--
